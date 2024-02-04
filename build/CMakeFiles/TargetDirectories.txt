@@ -1,0 +1,6 @@
+/home/hussienhosny/CMake_Shared_library_task/build/CMakeFiles/StringLib.dir
+/home/hussienhosny/CMake_Shared_library_task/build/CMakeFiles/edit_cache.dir
+/home/hussienhosny/CMake_Shared_library_task/build/CMakeFiles/rebuild_cache.dir
+/home/hussienhosny/CMake_Shared_library_task/build/lib/CMakeFiles/string_lib.dir
+/home/hussienhosny/CMake_Shared_library_task/build/lib/CMakeFiles/edit_cache.dir
+/home/hussienhosny/CMake_Shared_library_task/build/lib/CMakeFiles/rebuild_cache.dir

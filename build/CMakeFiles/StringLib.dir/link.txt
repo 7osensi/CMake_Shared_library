@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/StringLib.dir/main.cpp.o -o StringLib  lib/libstring_lib.a 
